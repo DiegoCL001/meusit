@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Minha Página</title>
+    <style>
+        body { font-family: sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; text-align: center; }
+        .botao { padding: 15px 25px; background: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Bem-vindo!</h1>
+        <p>Clique no botão abaixo para acessar nosso conteúdo:</p>
+        <br>
+        <a href="https://LINK-DO-OUTRO-SITE.com" class="botao">Ir para o site oficial</a>
+    </div>
+</body>
+</html>
